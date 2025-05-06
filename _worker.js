@@ -14,8 +14,8 @@ const Owner = '';
 
 const FAKE_HOSTNAME = '';
 
-const pathinfo = "t.me/Inconigto_Mode";
-const watermark = "Inconigto-MODE";
+const pathinfo = "Inconigto-Mode";
+const watermark = "Inconigto-Mode";
 
 
 async function handleActive(request) {
