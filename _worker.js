@@ -4,7 +4,7 @@ let cachedProxyList = [];
 let proxyIP = "";
 
 const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/InconigtoVPN/ProxyIP/refs/heads/main/proxyList.txt";
-const TELEGRAM_BOT_TOKEN = '';
+const TELEGRAM_BOT_TOKEN = '7944516307:AAE2Mk7djM1v2dTStWvxwLXI1zGdVdVgE8c';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 const apiCheck = 'https://proxyip.biz.id/';
 const ChatID = '';
